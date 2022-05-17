@@ -1,3 +1,3 @@
-# sobrepatito
+# Ojo de tormenta
 
-conoce sobre mi!
+Un bot de discord!
