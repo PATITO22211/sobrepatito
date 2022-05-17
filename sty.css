@@ -1,0 +1,127 @@
+body {
+
+ background-color: #101010;
+
+ color: white;
+
+}
+
+h1 {
+      font-family: Segio UI, sans-serif;
+}
+
+#content {
+
+  position: absolute;
+    left: calc(50% - 230px);
+    top: 100px;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #eeeeee;
+    padding: 20px;
+    border-radius: 4px;
+    width: 460px;
+    font-family: Segio UI, sans-serif;
+    margin-top: 40px;
+
+}
+
+
+
+#content h1{
+
+  margin-bottom: 0;
+
+  font-family: Segio UI, sans-serif;
+
+  font-size: 24px;
+
+}
+
+
+
+#content p{
+
+  word-break: normal;
+
+  line-height: 1.6;
+
+  font-size: 90%;
+
+  color: #cccccc;
+
+  display: inline;
+
+}
+
+
+
+#desc {
+
+  width: 300px;
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+}
+
+
+
+#content img {
+
+  max-width: 120px;
+
+  max-height: 160px;
+
+  float: right;
+
+}
+
+
+
+#content a{
+
+  text-decoration: none;
+
+  color: #ffffff;
+
+}
+
+
+
+#content a:hover{
+
+  text-decoration: underline;
+
+}
+
+
+
+#info {
+
+  color: #cccccc;
+
+}
+
+
+
+#content p{
+  width: 500px;
+font-family: Segio UI, sans-serif;
+
+}
+
+
+
+.info-section {
+
+  border-top: 1px solid rgba(0,0,0,0.4);
+
+  padding-top: 10px;
+
+  padding-bottom: 10px;
+
+  font-size: 90%;
+
+}
